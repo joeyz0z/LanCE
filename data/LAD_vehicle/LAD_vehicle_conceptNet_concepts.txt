@@ -1,0 +1,221 @@
+vehicle has sunroof
+cable car is a type of compartment
+vehicle is a type of public transport
+vehicle has a bicycle chain
+vehicle has gasoline engine
+vehicle has a fuel pump
+vehicle can be slow
+vehicle has wheel
+a vehicle has a roof
+vehicle has bicycle wheel
+a vehicle is a person who vehiclees other people
+a vehicle has a chain that drives the wheels
+fire engine is a type of truck
+a vehicle is opaque
+vehicle has car window
+a vehicle has a seat
+a vehicle is made of steel.
+vehicle is a type of craft
+vehicle has glove compartment
+vehicle has an engine
+vehicle has a clutch
+a vehicle is another name for an automobile
+vehicle has boot
+vehicle has trunk
+a vehicle that has flipped over has capsized
+my vehicle is red
+vehicle is a type of water travel
+a vehicle is convenient to own
+vehicle has auto accessory
+a vehicle has tires
+a vehicle is an efficient form of human transportation
+a vehicle contains many systems
+vehicle is a type of vehicle
+a vehicle is a weapon
+vehicle is a type of tracked vehicle
+a vehicle has carriages
+a vehicle is a machine
+vehicle is a type of jet engine
+a vehicle has an engine to power its wheels
+a vehicle has windows
+a vehicle has a part called a crank
+vehicle has escape hatch
+a vehicle has more wheels than engines
+vehicle is another word for automobile
+a vehicle is bigger than a car
+vehicle is a type of wheeled vehicle
+a vehicle has a propellor
+vehicle is a type of compartment
+a vehicle is a vehicle with seats inside it
+a vehicle has four tyres
+vehicle has accelerator
+a vehicle has many wheels
+vehicle has kick starter
+vehicle is a type of piece of cloth
+a vehicle is a type of ship
+vehicle is a type of containerful
+a vehicle has two wheels and can go fast
+vehicle has car
+a vehicle is fun to ride
+vehicle has arrester
+a vehicle has wheels
+vehicle has a car
+vehicle is a type of submersible
+vehicle is a type of self-propelled vehicle
+a vehicle can be pushing from behind
+vehicle has flight deck
+a vehicle can be bought and sold
+aircraft carrier is a type of warship
+vehicle is a type of visual signal
+vehicle has a sprocket
+a vehicle has a transmission system
+my vehicle has new tires
+vehicle can be new
+vehicle has high gear
+vehicle has roof
+vehicle has a burner
+racing is fun
+vehicle is a type of transportation
+vehicle is a type of teacher
+a vehicle has an engine
+sailing is an expensive hobby
+a vehicle has two wheels
+car is made of metal.
+a vehicle can be passing on the left
+vehicle has running board
+a vehicle is heavy
+vehicle has car mirror
+a vehicle has four tires
+vehicle has car door
+vehicle has brakes
+vehicle has gun enclosure
+vehicle has rear window
+vehicle is a type of motor vehicle
+vehicle has sonar
+vehicle has turn signal
+vehicle has cannon
+vehicle is a type of vessel
+a vehicle has headlights to increase visibility
+vehicle has wheels
+vehicle has tailgate
+vehicle has chain
+vehicle has floorboard
+vehicle has plane seat
+vehicle is a type of military vehicle
+vehicle has mudguard
+vehicle has first gear
+a vehicle is a motor vehicle
+my vehicle is green
+vehicle is a type of heavier-than-air craft
+vehicle is a type of lighter-than-air craft
+vehicle has fender
+sailing is a sport
+vehicle has a carburator
+vehicle has a bumper
+hot-air balloon is a type of balloon
+vehicle is a type of trainer
+vehicle has a starter
+my vehicle is shiny
+the vehicle can be turning right or left
+vehicle is a type of camper
+vehicle can be fun
+vehicle has periscope
+vehicle has boat whistle
+a vehicle has seats
+vehicle has kickstand
+vehicle has conning tower
+vehicle has hull
+vehicle has a caboose
+vehicle has coaster brake
+vehicle has a wheel
+a vehicle is fatsret than a scooter
+a vehicle has at least one engine
+a vehicle has motor oil
+vehicle has brake
+vehicle has hood
+vehicle has engine
+a vehicle is a two wheel vehicle
+vehicle is a type of departure
+a vehicle is less cramped than an automobile
+vehicle is a type of lifting device
+a vehicle has two tires
+vehicle has car seat
+vehicle is a type of warplane
+vehicle has stabilizer bar
+a vehicle can be made of metal
+vehicle has box
+vehicle has third gear
+vehicle is a kind of four wheeled vehicle.
+vehicle is generally a two wheeled vehicle
+a vehicle is a kind of automobile.
+a vehicle is expensive
+vehicle has reverse
+vehicle is a type of wading bird
+a vehicle is a mean of transport
+vehicle has snorkel
+vehicle is a type of truck
+vehicle has grille
+vehicle is a type of motorboat
+vehicle is a kind of off-road vehicle.
+a vehicle has a horn
+a vehicle can be turning into a driveway
+a vehicle is a kind of vehicle
+a vehicle can be powered by an engine
+a vehicle has two weheels
+vehicle has an alternator
+a vehicle is a boat
+vehicle is a type of car
+vehicle has horn
+a vehicle has sails
+a vehicle has seats inside
+vehicle is a kind of toy.
+a vehicle has no engine
+a vehicle has two wheels and pedals
+a vehicle has several wheels
+vehicle has suspension
+a vehicle is a vehicle
+vehicle is a type of sport
+vehicle has mudflap
+vehicle has window
+vehicle has a tire
+a vehicle can be made of fiber
+vehicle is a type of herb
+vehicle is a type of consequence
+a vehicle contains a filter
+a vehicle has two peddles
+vehicle has automobile engine
+a vehicle can be heavy
+touring car is a type of car
+vehicle has bumper
+vehicle has air bag
+vehicle has sprocket
+vehicle has handlebar
+vehicle has train car
+a vehicle has four wheels
+vehicle has bicycle seat
+a vehicle is a type of transportation
+vehicle is a type of airplane
+vehicle is a type of boat
+vehicle has a car horn
+vehicle is a type of armored vehicle
+a vehicle has 4 tires
+vehicle is a vehicle type
+the vehicle has four wheels
+a fire engine is a truck
+a vehicle is one kind of vehicle
+vehicle has buffer
+vehicle is a type of carriage
+vehicle is a type of workman
+a vehicle is a form of transportation
+a vehicle has tightly enclosed space
+vehicle has a horn
+vehicle has galley
+a vehicle can be painted blue
+vehicle has a radiator
+vehicle has pedal
+a vehicle can be big and blue
+a vehicle has seats, usually 4 of them
+a vehicle has a chain
+vehicle has automobile horn
+a vehicle has a more limited choice of routes
+vehicle has tail fin

@@ -1,0 +1,81 @@
+a vehicle is black
+a vehicle is white
+a vehicle is blue
+a vehicle is cyan
+a vehicle is brown
+a vehicle is gray
+a vehicle is orange
+a vehicle is red
+a vehicle is violet
+a vehicle is green
+a vehicle is yellow
+a vehicle is small (compared to cars)
+a vehicle is middle-sized (compared to cars)
+a vehicle is big (compared to cars)
+a vehicle weighs tons
+a vehicle is globular
+a vehicle is ellipsoidal
+a vehicle is cubic
+a vehicle is long
+a vehicle moves slowly
+a vehicle moves fast
+a vehicle has doors
+a vehicle has seats
+a vehicle has windows
+a vehicle has a jet engine
+a vehicle has an engine
+a vehicle has a sail
+a vehicle has a mast
+a vehicle has a horn
+a vehicle has a steering wheel
+a vehicle has a track
+a vehicle has a brake
+a vehicle has a number plate
+a vehicle has a sunroof
+a vehicle has a propeller
+a vehicle has weapons
+a vehicle has a cable
+a vehicle has two wheels
+a vehicle has three wheels
+a vehicle has four wheels
+a vehicle has more than four wheels
+a vehicle has armor
+a vehicle has lights
+a vehicle can dive
+a vehicle can fly
+a vehicle can float
+a vehicle can move
+a vehicle can be driven
+a vehicle can carry a small number (≤10) of passengers
+a vehicle can carry a larger number (＞10) of passengers
+a vehicle can carry a small quantity (≤ 1 ton) of goods
+a vehicle can carry a large quantity (＞ 1 tons) of goods
+a vehicle is for cleaning
+a vehicle is for engineering
+a vehicle is for rescue
+a vehicle is for civil use
+a vehicle is for military use
+a vehicle is for family use
+a vehicle is for sports
+a vehicle consumes electricity
+a vehicle consumes gasoline
+a vehicle consumes diesel oil
+a vehicle consumes special fuel
+a vehicle consumes wind power
+a vehicle consumes manpower
+a vehicle can be used on urban roads
+a vehicle can be used on rural roads
+a vehicle can be used on the track
+a vehicle can be used in the river
+a vehicle can be used in the lake
+a vehicle can be used in the sea
+a vehicle can be used in the sky
+a vehicle can be used in space
+a vehicle is safe
+a vehicle is dangerous
+a vehicle is made of metal
+a vehicle is made of plastic
+a vehicle is made of wood
+a vehicle is made of cloth
+a vehicle is cheap
+a vehicle is expensive

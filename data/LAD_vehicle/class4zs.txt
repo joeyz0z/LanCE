@@ -1,0 +1,50 @@
+0 aircraft carrier
+1 airliner
+2 airship
+3 ambulance
+4 armed helicopter
+5 awacs
+6 balance car
+7 bicycle
+8 boat
+9 cable car
+10 car
+11 civilian helicopter
+12 coach
+13 convertible car
+14 crane
+15 double-decker bus
+16 electric bicycle
+17 excavator
+18 ferry
+19 fighter
+20 fire engine
+21 flying car
+22 forklift
+23 freighter
+24 glider
+25 go kart
+26 hot air balloon
+27 hovercraft
+28 jeep
+29 motorcycle
+30 pickuptruck
+31 police car
+32 racing
+33 rocket
+34 sailing
+35 sanitation truck
+36 shovel loader
+37 speedboat
+38 submarine
+39 tank
+40 tank truck
+41 three-wheeled motorcycle
+42 touring car
+43 tractor
+44 tractor semitrailer
+45 train
+46 tram
+47 truck
+48 van
+49 watering car

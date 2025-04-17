@@ -1,0 +1,123 @@
+an animal with black fur
+an animal with white fur
+an animal with blue fur
+an animal with cyan fur
+an animal with brown fur
+an animal with gray fur
+an animal with orange fur
+an animal with red fur
+an animal with violet fur
+an animal with green fur
+an animal with yellow fur
+an animal with transparent skin
+an animal that is furry
+an animal that is hairless
+an animal with soft skin
+an animal with tough skin
+an animal with acicular features
+an animal with feathers
+an animal with scales
+an animal with smooth skin
+an animal with mucous skin
+an animal with shells
+an animal with whiskers
+an animal with patches
+an animal with spots
+an animal with stripes
+an animal that is small (compared to pigs)
+an animal that is middle-sized (compared to pigs)
+an animal that is big (compared to pigs)
+an animal with short legs
+an animal with long legs
+an animal that is bipedal
+an animal with four legs
+an animal with two legs
+an animal with two arms
+an animal with tentacles
+an animal with short wings
+an animal with long wings
+an animal with paws
+an animal with pads
+an animal with hooves
+an animal with a short neck
+an animal with a long neck
+an animal with teeth
+an animal with buck teeth
+an animal with tusks
+an animal with a short tail
+an animal with a long tail
+an animal with a colorful tail
+an animal with short horns
+an animal with long horns
+an animal with cuspidal horns
+an animal with curved horns
+an animal with only one horn
+an animal with a curved beak
+an animal with a dagger beak
+an animal with a hooked beak
+an animal with a needle beak
+an animal with a short beak
+an animal with a long beak
+an animal that is smelly
+an animal with a tongue
+an animal with eyes
+an animal with fins
+an animal with ears
+an animal with a nose
+an animal with a shell
+an animal with a backbone
+an animal that can swim
+an animal that can fly
+an animal that can walk
+an animal that can lay eggs
+an animal that can jump
+an animal that can climb trees
+an animal that can fish
+an animal that eats plants
+an animal that eats insects
+an animal that eats fish
+an animal that eats leaves
+an animal that eats meat
+an animal that eats seeds
+an animal that eats nectar
+an animal that eats plankton
+an animal that moves fast
+an animal that moves slow
+an animal that is strong
+an animal that is weak
+an animal with muscles
+an animal that is fierce
+an animal that is friendly
+an animal that is timid
+an animal that is smart
+an animal that is active
+an animal that is nocturnal
+an animal that can hibernate
+an animal that is a predator
+an animal that is a scavenger
+an animal that lives in groups
+an animal that lives in solitary
+an animal that lives in nests
+an animal that is noisy
+an animal that is quiet
+an animal that is warm-blooded
+an animal that is cold-blooded
+an animal that is venomous
+an animal that can produce milk
+an animal that lives in the arctic
+an animal that lives in coastal places
+an animal that lives in the desert
+an animal that lives in the bush
+an animal that lives in the plains
+an animal that lives in the forest
+an animal that lives in fields
+an animal that lives in the jungle
+an animal that lives in mountains
+an animal that lives in the ocean
+an animal that lives on the ground
+an animal that lives in water
+an animal that lives in trees
+an animal that lives in caves
+an animal that is domestic
+an animal that is endangered
+an animal that migrates
